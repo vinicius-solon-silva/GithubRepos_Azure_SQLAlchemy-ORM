@@ -1,4 +1,4 @@
-# GET GITHUB USER REPOSITORIES TROUGH SQLALCHEMY ORM
+# GET GITHUB USER REPOSITORIES THROUGH SQLALCHEMY ORM
 
 This project makes a search for github users repositories and post to an Azure SQL Database using SqlAlchemy ORM.
 
